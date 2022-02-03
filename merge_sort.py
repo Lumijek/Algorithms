@@ -1,5 +1,4 @@
 from array import array
-
 def merge_sort(n):
 
 	if len(n) <= 1:
